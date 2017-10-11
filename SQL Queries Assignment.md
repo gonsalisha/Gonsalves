@@ -19,3 +19,11 @@
 
 
 ## Query Series 2    
+**User :**  [The Polish](https://quarry.wmflabs.org/The%20Polish)  
+
+**URLs :**  
+           [Top edited overall articles in 2016 on pl.wiki](https://quarry.wmflabs.org/query/14975)  
+           [Most active users by articles on plwiki](https://quarry.wmflabs.org/query/1317)  
+           [Most active users by bytes on plwiki](https://quarry.wmflabs.org/query/2191)     
+           
+**Explanation :** User, The Polish is querying the Polish wikisource. I think the user is trying to determine active users interested in working on wiki pages. The Polish queries to find users with high edits on articales overall and monthly and maybe suggest them to freelance or work for Wikimedia commons _Polish_.
