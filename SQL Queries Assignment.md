@@ -4,7 +4,7 @@
 **Alisha R Gonsalves**   
 **alisha27@terpmail.umd.edu**
 
-
+# SQL Queries Assignment
 
 ## Query Series 1
 **User :** [Tohaomg](https://quarry.wmflabs.org/Tohaomg)   
@@ -39,7 +39,11 @@
            [Punjab edit-a-thon Hindi Wikipedia](https://quarry.wmflabs.org/query/11355)  
            [Punjab edit-a-thon: Telugu Wikipedia](https://quarry.wmflabs.org/query/11356)  
            
-**Explanation :** The user, Titodutta is querying all the articles created in different languages during the Punjab edit-a-thon.This maybe done to keep a record of all the articles that were created during that time.
+**Explanation :** The user, Titodutta is querying all the articles created in different languages during the Punjab edit-a-thon.This maybe done to keep a record of all the articles that were created during that time.  
+  
+    
+      
+Word count : 354
            
            
            
