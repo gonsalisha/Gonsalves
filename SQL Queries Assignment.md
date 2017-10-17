@@ -39,11 +39,11 @@
            [Punjab edit-a-thon Hindi Wikipedia](https://quarry.wmflabs.org/query/11355)  
            [Punjab edit-a-thon: Telugu Wikipedia](https://quarry.wmflabs.org/query/11356)  
            
-**Explanation :** The user, Titodutta is querying all the articles created in different languages during the Punjab edit-a-thon.This maybe done to keep a record of all the articles that were created during that time.  
+**Explanation :** The user, Titodutta is querying all the articles created in different language wikipedia sources during the Punjab edit-a-thon.This maybe done to keep a record of all the articles that were created during that time. It is possible that the user may used this query to check if the articles were placed in the correct language wikis, or even trying to find out many articles were created in all the different language wikis. 
   
     
       
-Word count : 354
+Word count : 397
            
            
            
